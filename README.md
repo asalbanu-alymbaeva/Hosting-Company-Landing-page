@@ -5,7 +5,7 @@ This project is fully built using **pure HTML and CSS**, focusing on clean layou
 
 ## 🚀 Live Preview
 You can view the live demo here:  
-👉 (Add your live link here — Netlify or GitHub Pages)
+👉 https://splendorous-cactus-aacc14.netlify.app/
 
 ## 🛠️ Technologies Used
 - HTML5 (semantic structure)
